@@ -1,0 +1,5 @@
+= PhotoSort
+
+Sort very large number of recovered photos and other files.
+See https://www.cgsecurity.org/wiki/PhotoRec/[PhotoRec].
+
