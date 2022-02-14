@@ -1,5 +1,9 @@
 = PhotoSort
 
 Sort very large number of recovered photos and other files.
-See https://www.cgsecurity.org/wiki/PhotoRec/[PhotoRec].
+
+== Resources
+
+- https://www.cgsecurity.org/wiki/PhotoRec/
+- https://ninedegreesbelow.com/photography/exiftool-commands.html#move
 
